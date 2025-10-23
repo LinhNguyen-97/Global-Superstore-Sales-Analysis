@@ -4,7 +4,7 @@
 Global Superstore is a global online retailer, offering **3 main Product Categories** with a total of **3788 Products**. The company's clients come from **165 countries** and are divided into **24 regions**, each with a separate staff. The Business Development Department needs a comprehensive dashboard which provides at-a-glance overview of metrics and KPIs to help team keep track of sales performance, operations activities and customer engagement.
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/607f723d-7b9e-440c-a71f-0677f07c113e" /> Tools & Techniques
-**_1. Power Query:_** Get, clean and transform data from Excel file.
+**_1. GoogleSQL:_** Clean and transform data in csv file into dim and fact tables.
 
 **_2. Power BI:_**
 - Build data model and create relationship between tables.
